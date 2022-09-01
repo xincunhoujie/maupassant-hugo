@@ -15,7 +15,6 @@
 
 [class^="icon-"], [class*=" icon-"] {
     font-family: 'icomoon';
-    speak: none;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
@@ -98,13 +97,12 @@ mark {
     padding: 3px 3px 3px 5px;
     background: #fffdd1;
 }
-pre, code {
-    font-family:Menlo, Monaco, Consolas, "Lucida Console", "Courier New", monospace;
-}
 pre {
+    font-family:Menlo, Monaco, Consolas, "Lucida Console", "Courier New", monospace;
     overflow:auto;
     border: 1px solid #ddd;
     display: block;
+    margin: 0px;
 }
 code {
     display: inline-block;
@@ -219,8 +217,6 @@ textarea {
 }
 #nav-menu a:first-child {
     border:none;
-}
-#nav-menu a:hover {
 }
 #nav-menu a.current {
     border:1px solid #ddd;
@@ -1039,7 +1035,6 @@ table tr:nth-child(2n) {
 
 table tr {
     border: 0;
-    border-top: 1px solid #CCC;
     background-color: white;
 }
   

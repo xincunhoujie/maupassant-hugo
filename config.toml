@@ -1,4 +1,4 @@
-baseURL = "https://www.flysnow.org"
+baseURL = ""
 languageCode = "zh-CN"
 title = "黑仔的博客"
 theme = "maupassant"
@@ -15,11 +15,11 @@ summaryLength = 140
 disqusShortname = "yourdiscussshortname"  ## 是否开启disqus评论，不要和utteranc同时开启
 
 [author]
-  name = "飞雪无情"
+  name = "黑仔"
 
 [params]
-  author = "飞雪无情"
-  subtitle = "专注于Android、Java、Go语言(golang)、移动互联网、项目管理、软件架构"
+  author = "黑仔"
+  subtitle = "无业游民的一天"
   keywords = "golang,go语言,go语言笔记,飞雪无情,java,android,博客,项目管理,python,软件架构,公众号,小程序"
   description = "专注于IT互联网，包括但不限于Go语言(golang)、Java、Android、Python、项目管理、抖音分析、软件架构等"
   busuanzi = true #启用不算子网页统计
